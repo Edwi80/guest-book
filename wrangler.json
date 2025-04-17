@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "guest-book",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "602dfafc-8f04-42a4-94bf-e19ff056ed53",
+      "database_name": "tiny-dream-fbe5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
